@@ -1,3 +1,3 @@
-module github.com/gitmeicl/utils/v3
+module github.com/gitmeicl/utils
 
-go 1.14
+go 1.23.3
